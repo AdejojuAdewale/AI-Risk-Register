@@ -40,14 +40,14 @@ An AI risk assessment for a (illustrative) multi-site Nigerian hospital network 
 
 ## Full register
 
-See [`risk-register.md`](./risk-register.md) for the complete entries: description, related incident, likelihood, impact, priority and recommended mitigation for each risk.
+See [`AI Risk Register For Ashwood General Health Network.pdf`](./risk-register.md) for the complete entries: description, related incident, likelihood, impact, priority and recommended mitigation for each risk.
 
 ## Repo structure
 
 ```
 ai-risk-register/
 ├── README.md
-└── risk-register.md
+└── AI Risk Register For Ashwood General Health Network.pdf
 ```
 
 ## Frameworks
